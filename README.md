@@ -1,8 +1,8 @@
-#Flask Example
+# Flask Example
 
 A simple Flask restful example
 
-##How to build
+## How to build
 ```shell
 git clone git@github.com:muzzammilshahid/Flask-API-Example.git
 
